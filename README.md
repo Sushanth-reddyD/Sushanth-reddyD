@@ -3,12 +3,11 @@
 <!-- 3D Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sushanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20systems%20from%20scratch&descSize=18&descColor=8b949e&descAlignY=55" />
 
-<!-- Animated Typing SVG — single line cycling -->
+<!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Backend+Systems+Builder+%E2%9A%99%EF%B8%8F;Security+Enthusiast+%F0%9F%94%90;From-Scratch+Implementer+%F0%9F%94%A7" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Animated Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushanth-reddy-dondapati)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushanthdondapati5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushanth-reddyD)
@@ -20,10 +19,23 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="200" />
+
+> *「 A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. 」*
+>
+> — **Fullmetal Alchemist: Brotherhood**
+
+</div>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```python
 class Sushanth:
+    """
+    'If you don't take risks, you can't create a future.'
+     — Monkey D. Luffy
+    """
     def __init__(self):
         self.role = "Software Engineer"
         self.focus = ["AI/ML", "Backend Systems", "Security"]
@@ -32,12 +44,22 @@ class Sushanth:
             "Tokenizer": "BPE → byte-level BPE → WordPiece → Unigram LM",
             "Redis": "From-scratch implementation",
         }
+        self.power_level = "over 9000"  # it's not even my final form
 
     def approach(self, problem):
-        return self.build_from_scratch(problem)  # always
+        # 'The only ones who should kill are those prepared to be killed.'
+        return self.build_from_scratch(problem)  # no shortcuts, no regrets
 ```
 
 > *I like understanding how things work by building them from scratch. Most of my projects start from "what's actually happening under the hood?" — then I go implement it.*
+
+<div align="center">
+
+> *「 People who can't throw something important away, can never hope to change anything. 」*
+>
+> — **Armin Arlert, Attack on Titan**
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -45,6 +67,12 @@ class Sushanth:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
+
+> *「 I am the bone of my sword. Steel is my body and fire is my blood. 」*
+>
+> — **Archer, Fate/stay night**
+
+<br/>
 
 ### Languages
 <p>
@@ -77,6 +105,14 @@ class Sushanth:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
+<div align="center">
+
+> *「 I don't want to conquer anything. I just think that the guy with the most freedom in this whole ocean is the Pirate King! 」*
+>
+> — **Monkey D. Luffy, One Piece**
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -90,6 +126,8 @@ class Sushanth:
 
 Tokenizers built from scratch, piece by piece. Char-level BPE through byte-level BPE (cl100k_base) to WordPiece, Unigram LM, and beyond. Each piece is self-contained with its own test suite. **120+ tests passing.**
 
+*Like training arcs — each piece makes the next one stronger.*
+
 </td>
 <td width="50%" valign="top">
 
@@ -101,6 +139,8 @@ Tokenizers built from scratch, piece by piece. Char-level BPE through byte-level
 </p>
 
 Retrieval library that fixes the "lost in the middle" problem in LLMs. Neighbor expansion, multi-factor scoring, and edge-balanced ordering. **16–50% faster** than vanilla k-NN with better recall.
+
+*Even an LLM's blind spot can't hide from this jutsu.*
 
 </td>
 </tr>
@@ -116,6 +156,8 @@ Retrieval library that fixes the "lost in the middle" problem in LLMs. Neighbor 
 
 AI agent framework that dynamically creates and executes its own Python tools in a sandbox. ReAct + Tree-of-Thoughts planning with AST validation and self-correction loops.
 
+*An agent that forges its own weapons mid-battle.*
+
 </td>
 <td width="50%" valign="top">
 
@@ -127,6 +169,8 @@ AI agent framework that dynamically creates and executes its own Python tools in
 </p>
 
 Customer support system with BERT query router (**85.7% accuracy**), semantic retrieval via ChromaDB, and generation via Gemma 3 / Gemini. PDF, HTML, DOCX with citation tracking.
+
+*Routes queries like a Stand — fast, precise, and autonomous.*
 
 </td>
 </tr>
@@ -141,6 +185,8 @@ Customer support system with BERT query router (**85.7% accuracy**), semantic re
 
 Redis, implemented from scratch. Building the core data structures, protocol parsing (RESP), and event-driven server loop to understand what makes Redis fast.
 
+*To defeat it, first you must become it.*
+
 </td>
 <td width="50%" valign="top">
 
@@ -151,6 +197,8 @@ Redis, implemented from scratch. Building the core data structures, protocol par
 </p>
 
 Pure Python AES-128 encryption — no external libraries. Demonstrates the internal round-by-round operations of the block cipher.
+
+*128 bits of impenetrable domain expansion.*
 
 </td>
 </tr>
@@ -163,12 +211,18 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sushanth-reddyD&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&count_private=true&icon_color=58a6ff&title_color=58a6ff&ring_color=58a6ff" />
+> *「 Hard work is worthless for those that don't believe in themselves. 」*
+>
+> — **Naruto Uzumaki**
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sushanth-reddyD&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&count_private=true&icon_color=58a6ff&title_color=58a6ff&ring_color=58a6ff&cache_seconds=86400" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Sushanth-reddyD&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-reddyD&layout=compact&theme=github_dark&hide_border=true&border_radius=15&title_color=58a6ff&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-reddyD&layout=compact&theme=github_dark&hide_border=true&border_radius=15&title_color=58a6ff&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -176,6 +230,16 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/W5eoZEBaCah4RbQTEj/giphy.gif" width="30"> &nbsp;Contribution Graph
+
+<div align="center">
+
+> *「 Talent is something you make bloom, instinct is something you polish. 」*
+>
+> — **Oikawa Tooru, Haikyuu!!**
+
+</div>
+
+<br/>
 
 <!-- 3D Contribution Calendar — generated daily by GitHub Action -->
 <div align="center">
@@ -195,6 +259,12 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 <div align="center">
 
+> *「 I'll take a potato chip... and eat it! 」*
+>
+> — **Light Yagami, Death Note** *(same energy as deploying to prod on Friday)*
+
+<br/>
+
 <!-- Generated daily by GitHub Action — your contributions become enemies! -->
 <img src="./game.gif" alt="GitHub Contribution Space Shooter" width="100%" />
 
@@ -208,7 +278,27 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 ## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;Trophies
 
+> *「 Surpass everything. That is my magic. 」*
+>
+> — **Asta, Black Clover**
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Sushanth-reddyD&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+
+> *「 Whatever you lose, you'll find it again. But what you throw away you'll never get back. 」*
+>
+> — **Kenshin Himura, Rurouni Kenshin**
+
+**Every line of code is a step closer to the top. See you there.** ⚔️
 
 </div>
 
