@@ -6,22 +6,15 @@
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Backend+Systems+Builder+%E2%9A%99%EF%B8%8F;Security+Enthusiast+%F0%9F%94%90;From-Scratch+Implementer+%F0%9F%94%A7" alt="Typing SVG" /></a>
 
-<br/>
+**I like understanding how things work by building them from scratch.**
+
+Most of my projects start from *"what's actually happening under the hood?"* — then I go implement it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushanth-reddy-dondapati)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushanthdondapati5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushanth-reddyD)
 
-<img src="https://komarev.com/ghpvc/?username=Sushanth-reddyD&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="200" />
+<br/>
 
 > *「 A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. 」*
 >
@@ -29,11 +22,10 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```python
 class Sushanth:
@@ -55,37 +47,13 @@ class Sushanth:
         return self.build_from_scratch(problem)  # no shortcuts
 ```
 
-</td>
-<td width="40%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-</td>
-</tr>
-</table>
-
-> *I like understanding how things work by building them from scratch. Most of my projects start from "what's actually happening under the hood?" — then I go implement it.*
-
 <div align="center">
-
-> *「 People who can't throw something important away, can never hope to change anything. 」*
->
-> — **Armin Arlert, Attack on Titan**
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
-
-> *「 I am the bone of my sword. Steel is my body and fire is my blood. 」*
->
-> — **Archer, Fate/stay night**
-
-<br/>
 
 ### Languages
 <p>
@@ -98,7 +66,6 @@ class Sushanth:
 &nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" height="48" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" />
 </p>
 
 ### Backend & Infrastructure
@@ -113,18 +80,7 @@ class Sushanth:
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
-
-<div align="center">
-
-> *「 I don't want to conquer anything. I just think that the guy with the most freedom in this whole ocean is the Pirate King! 」*
->
-> — **Monkey D. Luffy, One Piece**
-
-</div>
 
 <table>
 <tr>
@@ -132,9 +88,8 @@ class Sushanth:
 
 <h3 align="center"><a href="https://github.com/Sushanth-reddyD/Tokenizer">🔤 Tokenizer</a></h3>
 <p align="center">
-<a href="https://github.com/Sushanth-reddyD/Tokenizer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="https://github.com/Sushanth-reddyD/Tokenizer"><img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" /></a>
-<a href="https://github.com/Sushanth-reddyD/Tokenizer"><img src="https://img.shields.io/badge/From%20Scratch-58a6ff?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/From%20Scratch-58a6ff?style=flat-square" />
 </p>
 
 Tokenizers built from scratch, piece by piece. Char-level BPE through byte-level BPE (cl100k_base) to WordPiece, Unigram LM, and beyond. Each piece is self-contained with its own test suite. **120+ tests passing.**
@@ -146,9 +101,8 @@ Tokenizers built from scratch, piece by piece. Char-level BPE through byte-level
 
 <h3 align="center"><a href="https://github.com/Sushanth-reddyD/retrivex">🔍 RetriVex</a></h3>
 <p align="center">
-<a href="https://github.com/Sushanth-reddyD/retrivex"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="https://github.com/Sushanth-reddyD/retrivex"><img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" /></a>
-<a href="https://github.com/Sushanth-reddyD/retrivex"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" />
 </p>
 
 Retrieval library that fixes the "lost in the middle" problem in LLMs. Neighbor expansion, multi-factor scoring, and edge-balanced ordering. **16–50% faster** than vanilla k-NN with better recall.
@@ -162,9 +116,8 @@ Retrieval library that fixes the "lost in the middle" problem in LLMs. Neighbor 
 
 <h3 align="center"><a href="https://github.com/Sushanth-reddyD/EvoMind">🧠 EvoMind</a></h3>
 <p align="center">
-<a href="https://github.com/Sushanth-reddyD/EvoMind"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="https://github.com/Sushanth-reddyD/EvoMind"><img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" /></a>
-<a href="https://github.com/Sushanth-reddyD/EvoMind"><img src="https://img.shields.io/badge/LLM-58a6ff?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
 </p>
 
 AI agent framework that dynamically creates and executes its own Python tools in a sandbox. ReAct + Tree-of-Thoughts planning with AST validation and self-correction loops.
@@ -176,9 +129,8 @@ AI agent framework that dynamically creates and executes its own Python tools in
 
 <h3 align="center"><a href="https://github.com/Sushanth-reddyD/Rag">💬 RAG System</a></h3>
 <p align="center">
-<a href="https://github.com/Sushanth-reddyD/Rag"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="https://github.com/Sushanth-reddyD/Rag"><img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" /></a>
-<a href="https://github.com/Sushanth-reddyD/Rag"><img src="https://img.shields.io/badge/ChromaDB-00897B?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
 </p>
 
 Customer support system with BERT query router (**85.7% accuracy**), semantic retrieval via ChromaDB, and generation via Gemma 3 / Gemini. PDF, HTML, DOCX with citation tracking.
@@ -190,23 +142,10 @@ Customer support system with BERT query router (**85.7% accuracy**), semantic re
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/Sushanth-reddyD/redis">⚡ Redis</a></h3>
-<p align="center">
-<a href="https://github.com/Sushanth-reddyD/redis"><img src="https://img.shields.io/badge/Systems-0D1117?style=flat-square" /></a>
-<a href="https://github.com/Sushanth-reddyD/redis"><img src="https://img.shields.io/badge/From%20Scratch-58a6ff?style=flat-square" /></a>
-</p>
-
-Redis, implemented from scratch. Building the core data structures, protocol parsing (RESP), and event-driven server loop to understand what makes Redis fast.
-
-*To defeat it, first you must become it.*
-
-</td>
-<td width="50%" valign="top">
-
 <h3 align="center"><a href="https://github.com/Sushanth-reddyD/AES">🔐 AES</a></h3>
 <p align="center">
-<a href="https://github.com/Sushanth-reddyD/AES"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-<a href="https://github.com/Sushanth-reddyD/AES"><img src="https://img.shields.io/badge/Cryptography-DC143C?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-DC143C?style=flat-square" />
 </p>
 
 Pure Python AES-128 encryption — no external libraries. Demonstrates the internal round-by-round operations of the block cipher.
@@ -214,21 +153,25 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 *128 bits of impenetrable domain expansion.*
 
 </td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Sushanth-reddyD/redis">⚡ Redis</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Systems-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/🚧%20Just%20started-8b949e?style=flat-square" />
+</p>
+
+Redis from scratch — next up after the Tokenizer series. The plan: RESP protocol parsing, the core data structures, and an event-driven server loop, to find out what actually makes Redis fast.
+
+*To defeat it, first you must become it.*
+
+</td>
 </tr>
 </table>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> &nbsp;GitHub Stats
 
 <div align="center">
-
-> *「 Hard work is worthless for those that don't believe in themselves. 」*
->
-> — **Naruto Uzumaki**
-
-<br/>
 
 <p>
 <img src="https://streak-stats.demolab.com?user=Sushanth-reddyD&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
@@ -236,11 +179,6 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushanth-reddyD&theme=github_dark" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushanth-reddyD&theme=github_dark&utcOffset=5.5" height="200" />
-</p>
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushanth-reddyD&theme=github_dark" height="200" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushanth-reddyD&theme=github_dark" height="200" />
 </p>
 
@@ -249,32 +187,7 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> &nbsp;Space Shooter
-
 <div align="center">
-
-> *「 I'll take a potato chip... and eat it! 」*
->
-> — **Light Yagami, Death Note** *(same energy as deploying to prod on Friday)*
-
-<br/>
-
-<img src="./game.gif" alt="GitHub Contribution Space Shooter" width="100%" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
-
-> *「 Whatever you lose, you'll find it again. But what you throw away you'll never get back. 」*
->
-> — **Kenshin Himura, Rurouni Kenshin**
 
 **Every line of code is a step closer to the top. See you there.** ⚔️
 
