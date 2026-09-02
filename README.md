@@ -92,7 +92,7 @@ class Sushanth:
 <img src="https://img.shields.io/badge/From%20Scratch-58a6ff?style=flat-square" />
 </p>
 
-Tokenizers built from scratch, piece by piece. Char-level BPE through byte-level BPE (cl100k_base) to WordPiece, Unigram LM, and beyond. Each piece is self-contained with its own test suite. **120+ tests passing.**
+Tokenizers built from scratch, piece by piece. Char-level BPE through byte-level BPE (cl100k_base) to WordPiece, Unigram LM, and beyond. Each piece is self-contained with its own test suite. **170+ tests passing.**
 
 *Like training arcs — each piece makes the next one stronger.*
 
@@ -114,28 +114,28 @@ Retrieval library that fixes the "lost in the middle" problem in LLMs. Neighbor 
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/Sushanth-reddyD/EvoMind">🧠 EvoMind</a></h3>
+<h3 align="center"><a href="https://github.com/Sushanth-reddyD/physionet-2023-challenge">📊 PhysioNet 2023</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/CinC%202023-Published-16A34A?style=flat-square" />
 </p>
 
-AI agent framework that dynamically creates and executes its own Python tools in a sandbox. ReAct + Tree-of-Thoughts planning with AST validation and self-correction loops.
+Predicting neurological recovery from coma after cardiac arrest using EEG. Frequency/time domain features + XGBoost. **Ranked 4th in accuracy (0.81)** out of 36 teams. 10 iterative submissions.
 
-*An agent that forges its own weapons mid-battle.*
+*10 submissions, one published paper — the long game always wins.*
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/Sushanth-reddyD/Rag">💬 RAG System</a></h3>
+<h3 align="center"><a href="https://github.com/Sushanth-reddyD/federated-unlearning">🛡️ Federated Unlearning</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE-Published-0066CC?style=flat-square" />
 </p>
 
-Customer support system with BERT query router (**85.7% accuracy**), semantic retrieval via ChromaDB, and generation via Gemma 3 / Gemini. PDF, HTML, DOCX with citation tracking.
+Detecting and unlearning malicious clients in federated learning using VAE-based anomaly detection and Delta-FIM targeted unlearning. **88.1% server accuracy, 99.9% client accuracy.** Published in IEEE.
 
-*Routes queries like a Stand — fast, precise, and autonomous.*
+*A system that learns who to forget — equivalent exchange at its finest.*
 
 </td>
 </tr>
@@ -155,15 +155,15 @@ Explainable AI for 12-lead ECG arrhythmia detection. FCN/ResNet classifiers with
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/Sushanth-reddyD/AES">🔐 AES</a></h3>
+<h3 align="center"><a href="https://github.com/Sushanth-reddyD/halcyonix-debugger">⚡ Halcyonix</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Cryptography-DC143C?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square" />
 </p>
 
-Pure Python AES-128 encryption — no external libraries. Demonstrates the internal round-by-round operations of the block cipher.
+Multi-agent AI orchestrator for DevOps debugging. Coordinates GitLab, Grafana, and Coralogix agents via natural language — Strands Agent + LangChain + MCP + FastAPI.
 
-*128 bits of impenetrable domain expansion.*
+*An entire war room of agents, one command to summon them all.*
 
 </td>
 </tr>
