@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Venom Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b2e,100:58a6ff&height=250&text=Sushanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Building%20intelligent%20systems%20from%20scratch&descSize=18&descColor=8b949e&descAlignY=65&stroke=58a6ff&strokeWidth=1" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sushanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20systems%20from%20scratch&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Backend+Systems+Builder+%E2%9A%99%EF%B8%8F;Security+Enthusiast+%F0%9F%94%90;From-Scratch+Implementer+%F0%9F%94%A7" alt="Typing SVG" /></a>
@@ -20,6 +20,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
+
 <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="200" />
 
 > *「 A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. 」*
@@ -29,6 +30,10 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class Sushanth:
@@ -44,12 +49,20 @@ class Sushanth:
             "Tokenizer": "BPE → byte-level BPE → WordPiece → Unigram LM",
             "Redis": "From-scratch implementation",
         }
-        self.power_level = "over 9000"  # it's not even my final form
+        self.power_level = "over 9000"  # not even my final form
 
     def approach(self, problem):
-        # 'The only ones who should kill are those prepared to be killed.'
-        return self.build_from_scratch(problem)  # no shortcuts, no regrets
+        return self.build_from_scratch(problem)  # no shortcuts
 ```
+
+</td>
+<td width="40%" align="center" valign="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 > *I like understanding how things work by building them from scratch. Most of my projects start from "what's actually happening under the hood?" — then I go implement it.*
 
@@ -236,32 +249,6 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZEBaCah4RbQTEj/giphy.gif" width="30"> &nbsp;Contribution Graph
-
-<div align="center">
-
-> *「 Talent is something you make bloom, instinct is something you polish. 」*
->
-> — **Oikawa Tooru, Haikyuu!!**
-
-</div>
-
-<br/>
-
-<!-- 3D Contribution Calendar — generated daily by GitHub Action -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> &nbsp;Space Shooter
 
 <div align="center">
@@ -272,7 +259,6 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 <br/>
 
-<!-- Generated daily by GitHub Action — your contributions become enemies! -->
 <img src="./game.gif" alt="GitHub Contribution Space Shooter" width="100%" />
 
 </div>
@@ -280,7 +266,6 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Trophies -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;Trophies
@@ -309,26 +294,5 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/3ohc0Rnm6JNqMcIABG/giphy.gif" width="30"> &nbsp;Contribution Snake
-
-<div align="center">
-
-> *「 The snake that cannot shed its skin perishes. 」*
->
-> — **Friedrich Nietzsche** *(honorary anime sensei)*
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushanth-reddyD/Sushanth-reddyD/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sushanth-reddyD/Sushanth-reddyD/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sushanth-reddyD/Sushanth-reddyD/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<!-- Animated Venom Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b2e,100:58a6ff&height=150&section=footer&stroke=58a6ff&strokeWidth=1" />
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
