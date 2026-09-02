@@ -142,6 +142,19 @@ Customer support system with BERT query router (**85.7% accuracy**), semantic re
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center"><a href="https://github.com/Sushanth-reddyD/ECG-XAI-Arrhythmia-Detection">🫀 ECG-XAI</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Explainable%20AI-16A34A?style=flat-square" />
+</p>
+
+Explainable AI for 12-lead ECG arrhythmia detection. FCN/ResNet classifiers with Integrated Gradients, LRP, and DeepLIFT attribution overlays — shipped as a Streamlit app with Docker and CI.
+
+*Sharingan for cardiograms — it doesn't just predict, it shows you why.*
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center"><a href="https://github.com/Sushanth-reddyD/AES">🔐 AES</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -152,8 +165,6 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 *128 bits of impenetrable domain expansion.*
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
