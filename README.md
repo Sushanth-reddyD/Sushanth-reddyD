@@ -30,7 +30,7 @@ class Sushanth:
         self.philosophy = "What's actually happening under the hood?"
         self.currently_building = {
             "Tokenizer": "BPE → byte-level BPE → WordPiece → Unigram LM",
-            "Redis": "From-scratch implementation in Go",
+            "Redis": "From-scratch implementation",
         }
 
     def approach(self, problem):
@@ -116,12 +116,40 @@ class Sushanth:
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZEBaCah4RbQTEj/giphy.gif" width="30"> &nbsp;Contribution Graph
 
 <!-- Activity Graph -->
 <div align="center">
 
-[![Sushanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushanth-reddyD&theme=github-dark&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff&radius=15)](https://github.com/Sushanth-reddyD)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushanth-reddyD&theme=github-dark&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff&radius=15)](https://github.com/Sushanth-reddyD)
+
+</div>
+
+<br/>
+
+<!-- 3D Contribution Calendar — generated daily by GitHub Action -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> &nbsp;Space Shooter
+
+<div align="center">
+
+<!-- Generated daily by GitHub Action — your contributions become enemies! -->
+<img src="./game.gif" alt="GitHub Contribution Space Shooter" width="100%" />
 
 </div>
 
