@@ -217,12 +217,19 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sushanth-reddyD&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&count_private=true&icon_color=58a6ff&title_color=58a6ff&ring_color=58a6ff&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Sushanth-reddyD&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<p>
+<img src="https://streak-stats.demolab.com?user=Sushanth-reddyD&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+</p>
 
-<br/>
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sushanth-reddyD&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushanth-reddyD&theme=github_dark&utcOffset=5.5" height="200" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushanth-reddyD&layout=compact&theme=github_dark&hide_border=true&border_radius=15&title_color=58a6ff&langs_count=8&cache_seconds=86400" />
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushanth-reddyD&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushanth-reddyD&theme=github_dark" height="200" />
+</p>
 
 </div>
 
