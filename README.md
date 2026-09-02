@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Sushanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20systems%20from%20scratch&descSize=18&descColor=8b949e&descAlignY=55" />
+<!-- Animated Venom Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b2e,100:58a6ff&height=250&text=Sushanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Building%20intelligent%20systems%20from%20scratch&descSize=18&descColor=8b949e&descAlignY=65&stroke=58a6ff&strokeWidth=1" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Backend+Systems+Builder+%E2%9A%99%EF%B8%8F;Security+Enthusiast+%F0%9F%94%90;From-Scratch+Implementer+%F0%9F%94%A7" alt="Typing SVG" /></a>
@@ -309,5 +309,26 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 </div>
 
-<!-- 3D Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/3ohc0Rnm6JNqMcIABG/giphy.gif" width="30"> &nbsp;Contribution Snake
+
+<div align="center">
+
+> *「 The snake that cannot shed its skin perishes. 」*
+>
+> — **Friedrich Nietzsche** *(honorary anime sensei)*
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushanth-reddyD/Sushanth-reddyD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sushanth-reddyD/Sushanth-reddyD/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sushanth-reddyD/Sushanth-reddyD/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- Animated Venom Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b2e,100:58a6ff&height=150&section=footer&stroke=58a6ff&strokeWidth=1" />
