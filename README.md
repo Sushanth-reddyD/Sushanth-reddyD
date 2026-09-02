@@ -154,17 +154,6 @@ Pure Python AES-128 encryption — no external libraries. Demonstrates the inter
 
 </td>
 <td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/Sushanth-reddyD/redis">⚡ Redis</a></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Systems-0D1117?style=flat-square" />
-<img src="https://img.shields.io/badge/🚧%20Just%20started-8b949e?style=flat-square" />
-</p>
-
-Redis from scratch — next up after the Tokenizer series. The plan: RESP protocol parsing, the core data structures, and an event-driven server loop, to find out what actually makes Redis fast.
-
-*To defeat it, first you must become it.*
-
 </td>
 </tr>
 </table>
